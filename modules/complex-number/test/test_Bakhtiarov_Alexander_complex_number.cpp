@@ -1,7 +1,7 @@
 // Copyright 2024 Bakhtiarov Alexander
 
 #include <gtest/gtest.h>
-
+#include <string>
 #include "include/complex_number.h"
 
 TEST(Bakhtiarov_Alexander_ComplexNumberTest, Divide_By_Zero) {
