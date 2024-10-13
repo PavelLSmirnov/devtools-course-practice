@@ -1,7 +1,7 @@
 // Copyright 2017 Korniakov Kirill
 
 #include <string>
-
+#include <cstdio>
 #include "../include/complex_calculator.h"
 
 int main(int argc, const char** argv) {
