@@ -1,6 +1,7 @@
 // Copyright 2024 Zhatkin Vyacheslav
 
 #include "include/levenshtein_distance.h"
+#include <string>
 
 LevenshteinDistance::LevenshteinDistance() {
     str1 = "";
